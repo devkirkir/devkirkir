@@ -6,9 +6,9 @@ I am always trying to grow up and learn something new 🌱
 Currently learning React.js and want to learn Next.js in the near future 💻
 
 ### ✏️ Сaptions in titles:
-- JavaScript - projects using a vanilla JS
-- React.js - projects using a React.js
-- Layout - usual web-sites
+- javascript - projects using a vanilla JS
+- react - projects using a React.js
+- layout - usual web-sites
 
 ### 💻 Tech Stack:
 <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" alt="html5" />&nbsp;
