@@ -7,6 +7,7 @@ Currently learning React.js and want to learn Next.js in the near future 💻
 
 ### ✏️ Сaptions in titles:
 - react - projects using a React.js
+- astro - projects using a Astro
 - javascript - projects using a vanilla JS
 - layout - usual web-sites
 
@@ -16,7 +17,8 @@ Currently learning React.js and want to learn Next.js in the near future 💻
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" alt="javascript"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-2F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" alt="React.js" />&nbsp;
-<img src="https://img.shields.io/badge/redux/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff"  alt="Redux/RTK" />&nbsp;
+<img src="https://img.shields.io/badge/redux/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" alt="Redux/RTK" />&nbsp;
+<img src="https://img.shields.io/badge/astro-161529.svg?&style=for-the-badge&logo=astro&logoColor=ff" alt="Astro" />&nbsp;
 
 #### Styling
 
